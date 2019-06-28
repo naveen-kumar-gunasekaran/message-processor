@@ -1,0 +1,291 @@
+=======================================================
+Total No of Messages Received & Processed => 10
+Generating the sales report after 10 Messages received
+=======================================================
+ Product                  banana 
+ Sales Quantity               20 
+ Sales Value                600p 
+---------------------------------
+ Product                   apple 
+ Sales Quantity               22 
+ Sales Value                 45p 
+---------------------------------
+ Product              watermelon 
+ Sales Quantity               41 
+ Sales Value              25010p 
+=======================================================
+Total No of Messages Received & Processed => 20
+Generating the sales report after 20 Messages received
+=======================================================
+ Product                  banana 
+ Sales Quantity               20 
+ Sales Value                600p 
+---------------------------------
+ Product                  orange 
+ Sales Quantity               20 
+ Sales Value                600p 
+---------------------------------
+ Product                   apple 
+ Sales Quantity               44 
+ Sales Value                221p 
+---------------------------------
+ Product              watermelon 
+ Sales Quantity               41 
+ Sales Value              25010p 
+---------------------------------
+ Product                   guava 
+ Sales Quantity               21 
+ Sales Value                630p 
+---------------------------------
+ Product                  carrot 
+ Sales Quantity                1 
+ Sales Value                 10p 
+=======================================================
+Total No of Messages Received & Processed => 30
+Generating the sales report after 30 Messages received
+=======================================================
+ Product                  banana 
+ Sales Quantity               20 
+ Sales Value                600p 
+---------------------------------
+ Product                  orange 
+ Sales Quantity               20 
+ Sales Value                600p 
+---------------------------------
+ Product                   apple 
+ Sales Quantity               44 
+ Sales Value                221p 
+---------------------------------
+ Product                   onion 
+ Sales Quantity               21 
+ Sales Value                630p 
+---------------------------------
+ Product              watermelon 
+ Sales Quantity               41 
+ Sales Value              25010p 
+---------------------------------
+ Product                  tomato 
+ Sales Quantity               22 
+ Sales Value                 45p 
+---------------------------------
+ Product                   guava 
+ Sales Quantity               21 
+ Sales Value                630p 
+---------------------------------
+ Product                  carrot 
+ Sales Quantity               41 
+ Sales Value              24410p 
+=======================================================
+Total No of Messages Received & Processed => 40
+Generating the sales report after 40 Messages received
+=======================================================
+ Product                  banana 
+ Sales Quantity               20 
+ Sales Value                600p 
+---------------------------------
+ Product                  orange 
+ Sales Quantity               20 
+ Sales Value                600p 
+---------------------------------
+ Product                   apple 
+ Sales Quantity               44 
+ Sales Value                221p 
+---------------------------------
+ Product                   onion 
+ Sales Quantity               21 
+ Sales Value                630p 
+---------------------------------
+ Product                  potato 
+ Sales Quantity               21 
+ Sales Value                610p 
+---------------------------------
+ Product                   beans 
+ Sales Quantity               61 
+ Sales Value              24610p 
+---------------------------------
+ Product              watermelon 
+ Sales Quantity               41 
+ Sales Value              25010p 
+---------------------------------
+ Product                  tomato 
+ Sales Quantity               23 
+ Sales Value                 46p 
+---------------------------------
+ Product                   guava 
+ Sales Quantity               21 
+ Sales Value                630p 
+---------------------------------
+ Product               muskmelon 
+ Sales Quantity                1 
+ Sales Value                  1p 
+---------------------------------
+ Product                  carrot 
+ Sales Quantity               41 
+ Sales Value              24410p 
+=======================================================
+Total No of Messages Received & Processed => 50
+Generating the sales report after 50 Messages received
+=======================================================
+ Product                  banana 
+ Sales Quantity               20 
+ Sales Value                600p 
+---------------------------------
+ Product                  orange 
+ Sales Quantity               20 
+ Sales Value                600p 
+---------------------------------
+ Product                   apple 
+ Sales Quantity               44 
+ Sales Value                221p 
+---------------------------------
+ Product                    kiwi 
+ Sales Quantity               62 
+ Sales Value              61620p 
+---------------------------------
+ Product                   onion 
+ Sales Quantity               21 
+ Sales Value                630p 
+---------------------------------
+ Product                  potato 
+ Sales Quantity               21 
+ Sales Value                610p 
+---------------------------------
+ Product                   beans 
+ Sales Quantity               61 
+ Sales Value              24610p 
+---------------------------------
+ Product              watermelon 
+ Sales Quantity               41 
+ Sales Value              25010p 
+---------------------------------
+ Product                  tomato 
+ Sales Quantity               23 
+ Sales Value                 46p 
+---------------------------------
+ Product                   guava 
+ Sales Quantity               21 
+ Sales Value                630p 
+---------------------------------
+ Product               muskmelon 
+ Sales Quantity               23 
+ Sales Value                 46p 
+---------------------------------
+ Product                  carrot 
+ Sales Quantity               41 
+ Sales Value              24410p 
+=====================================================================
+Total No of Messages Received & Processed => 50
+Application is paused now & will not accept anymore messages.
+=====================================================================
+Generating the adjustment log report
+======================================
+Add 1p apple
+Add 20p banana
+Add 20p banana
+Multiply 60p watermelon
+Multiply 60p watermelon
+Multiply 60p watermelon
+Add 20p guava
+Add 20p guava
+Add 20p guava
+Add 20p guava
+Add 1p apple
+Add 1p apple
+Add 1p apple
+Add 1p apple
+Add 20p orange
+Add 20p orange
+Add 20p orange
+Add 20p orange
+Add 20p orange
+subtract 10p carrot
+subtract 10p carrot
+subtract 10p carrot
+subtract 10p carrot
+subtract 10p carrot
+subtract 10p carrot
+Multiply 60p carrot
+Multiply 60p carrot
+Multiply 60p carrot
+Multiply 60p carrot
+Multiply 60p carrot
+Multiply 60p carrot
+Add 20p onion
+Add 20p onion
+Add 20p onion
+Add 20p onion
+Add 20p onion
+Add 20p onion
+Add 20p onion
+Add 1p tomato
+Add 1p tomato
+Add 1p tomato
+Add 1p tomato
+Add 1p tomato
+Add 1p tomato
+Add 1p tomato
+Add 1p tomato
+Add 20p potato
+Add 20p potato
+Add 20p potato
+Add 20p potato
+Add 20p potato
+Add 20p potato
+Add 20p potato
+Add 20p potato
+Add 20p potato
+Multiply 60p beans
+Multiply 60p beans
+Multiply 60p beans
+Multiply 60p beans
+Multiply 60p beans
+Multiply 60p beans
+Multiply 60p beans
+Multiply 60p beans
+Multiply 60p beans
+Multiply 60p beans
+Add 20p muskmelon
+Add 20p muskmelon
+Add 20p muskmelon
+Add 20p muskmelon
+Add 20p muskmelon
+Add 20p muskmelon
+Add 20p muskmelon
+Add 20p muskmelon
+Add 20p muskmelon
+Add 20p muskmelon
+Add 1p muskmelon
+Add 1p muskmelon
+Add 1p muskmelon
+Add 1p muskmelon
+Add 1p muskmelon
+Add 1p muskmelon
+Add 1p muskmelon
+Add 1p muskmelon
+Add 1p muskmelon
+Add 1p muskmelon
+Add 1p muskmelon
+Add 20p kiwi
+Add 20p kiwi
+Add 20p kiwi
+Add 20p kiwi
+Add 20p kiwi
+Add 20p kiwi
+Add 20p kiwi
+Add 20p kiwi
+Add 20p kiwi
+Add 20p kiwi
+Add 20p kiwi
+Add 20p kiwi
+Multiply 60p kiwi
+Multiply 60p kiwi
+Multiply 60p kiwi
+Multiply 60p kiwi
+Multiply 60p kiwi
+Multiply 60p kiwi
+Multiply 60p kiwi
+Multiply 60p kiwi
+Multiply 60p kiwi
+Multiply 60p kiwi
+Multiply 60p kiwi
+Multiply 60p kiwi
